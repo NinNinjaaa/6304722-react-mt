@@ -3,6 +3,8 @@ import Welcome from './Components/Welcome';
 import About from './Components/About';
 import Num from './Components/Num';
 import { BrowserRouter as Router,Routes,Route,Link}from 'react-router-dom';
+import React, { Components }  from 'react';
+import ReactDOM from 'react-dom'
 
 function App() {
   return (
